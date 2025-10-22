@@ -9,11 +9,6 @@
 #We encourage researchers to explore and try out our methods before formally publishing a paper, but be sure to cite our methods. 
 #You can find the code, documentation and instructions for use in this repository. If you encounter any problems or have any suggestions for improvement, please feel free to contact us at lixin17808627537@163.com.
 
-
-#packages: pip install torch-geometric matplotlib scikit-learn seaborn
-
 #pip install torch-geometric matplotlib scikit-learn torch-scatter pandas torch_sparse ogb googledrivedownloader==0.4 gdown seaborn
-
-!!!!Due to the importance and novelty of the research work, we are committed to making the full code publicly available upon acceptance of the paper.
 
 ####Now that you're all here, don't forget to click on the little star.!!!!!!!!!!!!!!!!!!!
