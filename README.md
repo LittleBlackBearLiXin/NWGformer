@@ -1,6 +1,5 @@
 # NWGformer: A Linear Graph Transformer with Non-linear Re-weighting of Attention Scores
 # Xin Li, Yu Zhang, Yaoqun Xu, Xitong Xu
-# Type Article
 # Journal Knowledge-Based Systems
 #For quotes on function packages please refer to our article
 
