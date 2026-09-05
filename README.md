@@ -1,7 +1,7 @@
 # Li X, Zhang Y, Xu Y, et al. NWGformer: A Linear Graph Transformer with Non-linear Re-weighting of Attention Scores[J]. Knowledge-Based Systems, 2025: 114815.
 
 
-#For quotes on function packages please refer to our article
+#For quotes on function packages please refer to our article:
 
 @article{li2025nwgformer,
   title={NWGformer: A Linear Graph Transformer with Non-linear Re-weighting of Attention Scores},
@@ -15,7 +15,7 @@
 #We will follow up with the article "NWGformer: A Linear Graph Transformer with Non-linear Re-weighting of Attention Scores", including insights of the new method, code comments, etc. Please look forward to it.
 
 #We encourage researchers to explore and try out our methods before formally publishing a paper, but be sure to cite our methods. 
-#You can find the code, documentation and instructions for use in this repository. If you encounter any problems or have any suggestions for improvement, please feel free to contact us at lixin17808627537@163.com.
+#You can find the code, documentation and instructions for use in this repository. If you encounter any problems or have any suggestions for improvement, please feel free to contact us at lixin17808627537@163.com or lisxin@hrbeu.edu.cn.
 
 #pip install torch-geometric matplotlib scikit-learn torch-scatter pandas torch_sparse ogb googledrivedownloader==0.4 gdown seaborn
 
